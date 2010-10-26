@@ -737,3 +737,4 @@ Full list of issues resolved in 0.4 is at https://issues.apache.org/jira/secure/
    flushing of infrequently-updated ColumnFamilies
 
    Fork for Franczyk @ github
+   
